@@ -1,6 +1,3 @@
-target
-.classpath
-.metadata
-.project
-doc
-*.class
+build
+out
+.gradle
